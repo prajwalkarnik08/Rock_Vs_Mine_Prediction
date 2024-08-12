@@ -1,8 +1,9 @@
 # Rock_Vs_Mine_Prediction
 In this project, I have used sonar data to predict whether a given object is Rock or Mine.
+
 I have imported the libraries for
-i) Data preprocessing, in this I have utilized numpy and pandas
-ii) Training the machine learning model, I have used sklearn to train Logistic Regression model
+1. Data preprocessing, in this I have utilized numpy and pandas
+2. Training the machine learning model, I have used sklearn to train Logistic Regression model
 and finally I have checked the accuracy score for train and test data.
                    Accuracy score is nothing but the ratio between the number of correct predictions and total number of predictions.
 I have loaded the data using pandas.
